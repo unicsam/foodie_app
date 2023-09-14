@@ -1,6 +1,6 @@
 # foodie_sellers_app
 
-A new Flutter project.
+Foodie app is created while completing an Udemy Course
 
 ## Getting Started
 
